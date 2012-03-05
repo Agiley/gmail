@@ -17,9 +17,11 @@ tmtags
 coverage
 rdoc
 pkg
+Gemfile.lock
 
 ## PROJECT::SPECIFIC
 *.rdb
+*.rvmrc
 
 ## Test Account details
 spec/account.yml
