@@ -30,7 +30,6 @@ Gem::Specification.new do |s|
  README.md
  Rakefile
  TODO.md
- gemspec.yml
  gmail.gemspec
  lib/gmail.rb
  lib/gmail/client.rb
